@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+*.db
+*.sqlite3
+
+# Environment
+.env
+.venv
+env/
+venv/

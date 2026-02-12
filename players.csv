@@ -1,0 +1,11 @@
+name,nationality,role,age,matches_played,strike_rate,economy_rate,base_price,skill_rating
+Rohit Sharma,India,Batsman,36,240,130.5,0.0,200,9
+Mitchell Starc,Australia,Bowler,33,120,50.0,7.5,200,10
+Ben Stokes,England,All-rounder,32,100,140.0,8.2,200,9
+Rashid Khan,Afghanistan,Bowler,25,110,150.0,6.5,150,10
+Nicholas Pooran,West Indies,Wicketkeeper,28,95,145.0,0.0,150,8
+Shubman Gill,India,Batsman,24,50,135.0,0.0,100,9
+Trent Boult,New Zealand,Bowler,34,150,30.0,7.8,150,8
+Kagiso Rabada,South Africa,Bowler,28,80,20.0,7.9,150,9
+Glenn Maxwell,Australia,All-rounder,35,130,160.0,8.5,200,8
+Heinrich Klaasen,South Africa,Wicketkeeper,32,60,170.0,0.0,150,9
